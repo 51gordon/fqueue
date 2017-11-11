@@ -1,6 +1,6 @@
-package net.kael.fqueue;
+package com.github.cgdon.fqueue;
 
-import net.kael.fqueue.exception.FileFormatException;
+import com.github.cgdon.fqueue.exception.FileFormatException;
 
 import java.io.File;
 import java.io.IOException;

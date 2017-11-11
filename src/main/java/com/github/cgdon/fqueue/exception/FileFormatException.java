@@ -1,4 +1,4 @@
-package net.kael.fqueue.exception;
+package com.github.cgdon.fqueue.exception;
 
 /**
  * @author sunli

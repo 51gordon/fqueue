@@ -1,9 +1,9 @@
-package net.kael.fqueue;
+package com.github.cgdon.fqueue;
 
-import net.kael.fqueue.exception.FileEOFException;
-import net.kael.fqueue.exception.FileFormatException;
-import net.kael.fqueue.internal.Entity;
-import net.kael.fqueue.internal.Index;
+import com.github.cgdon.fqueue.exception.FileEOFException;
+import com.github.cgdon.fqueue.exception.FileFormatException;
+import com.github.cgdon.fqueue.internal.Entity;
+import com.github.cgdon.fqueue.internal.Index;
 
 import java.io.File;
 import java.io.IOException;
